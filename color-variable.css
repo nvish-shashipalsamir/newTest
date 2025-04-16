@@ -1,4 +1,4 @@
-:root {
+section[data-cy="rawHTML"] {
   --color-primary: #0070f3;
   --color-primary-light: #3291ff;
   --color-primary-dark: #0366d6;
